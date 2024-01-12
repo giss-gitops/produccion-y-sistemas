@@ -1,2 +1,4 @@
 globalConfiguration:
+  lastConfigLoaded: value-from-PyS-repository
   var1: value-from-PyS-repository-DB
+  var2: value-from-PyS-repository-GW
